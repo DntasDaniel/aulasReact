@@ -1,0 +1,107 @@
+{
+    "Electronics": [
+        {
+            "id": "1",
+            "img": "/src/images/computer.jpg",
+            "descricao": "Macbook Pro 2014",
+            "valor": 235,
+            "tamanho": "13,3 pol",
+            "cor": "Branco",
+            "material": "Alumínio combinado com Plastico",
+            "vendedor": "Americanas S.A."
+        },
+        {
+            "id": "2",
+            "img": "/src/images/smartwatch.jpg",
+            "descricao": "Watch",
+            "valor": 135,
+            "tamanho": "Médio",
+            "cor": "Azul escuro",
+            "material": "Plástico",
+            "vendedor": "Americanas S.A."
+        },
+        {
+            "id": "3",
+            "img": "/src/images/smartphone.jpg",
+            "descricao": "Samsung Galaxy",
+            "valor": 335,
+            "tamanho": "Médio",
+            "cor": "Branco",
+            "material": "Plástico",
+            "vendedor": "Americanas S.A."
+        },
+        {
+            "id": "4",
+            "img": "/src/images/kettle.jpg",
+            "descricao": "Electric Kettle",
+            "valor": 5,
+            "tamanho": "Médio",
+            "cor": "Cinza",
+            "material": "Plastico e metal",
+            "vendedor": "Americanas S.A."
+        },
+        {
+            "id": "5",
+            "img": "/src/images/headphone.jpg",
+            "descricao": "Headphones",
+            "valor": 15,
+            "tamanho": "Único",
+            "cor": "Cinza",
+            "material": "Plastico e metal",
+            "vendedor": "Americanas S.A."
+        }
+    ],
+    "Clothing": [
+        {
+            "id": "6",
+            "img": "/src/images/dress.jpg",
+            "descricao": "Red Floral Dress",
+            "valor": 35,
+            "tamanho": "P",
+            "cor": "Vermelho",
+            "material": "Renda",
+            "vendedor": "Americanas S.A."
+        },
+        {
+            "id": "7",
+            "img": "/src/images/shirt.jpg",
+            "descricao": "Jean Shorts",
+            "valor": 65,
+            "tamanho": "P",
+            "cor": "Azul",
+            "material": "Brim",
+            "vendedor": "Americanas S.A."
+        },
+        {
+            "id": "8",
+            "img": "/src/images/pants.jpg",
+            "descricao": "Pink Trousers women",
+            "valor": 35,
+            "tamanho": "M",
+            "cor": "Rosa",
+            "material": "Brim",
+            "vendedor": "Americanas S.A."
+        },
+        {
+            "id": "9",
+            "img": "/src/images/suit.jpg",
+            "descricao": "Suit",
+            "valor": 225,
+            "tamanho": "P",
+            "cor": "Azul escuro",
+            "material": "Viscose",
+            "vendedor": "Americanas S.A."
+        },
+        {
+            "id": "10",
+            "img": "/src/images/t-shirt.jpg",
+            "descricao": "T-Shirt",
+            "valor": 55,
+            "tamanho": "M",
+            "cor": "Azul",
+            "material": "Tricoline",
+            "vendedor": "Americanas S.A."
+        }
+    ]
+    
+}
