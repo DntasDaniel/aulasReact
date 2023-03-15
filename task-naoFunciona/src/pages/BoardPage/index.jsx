@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from "react";
+import React, { useContext} from "react";
 import { ContextGlobal } from "../../components/Card/global/ContextGlobal";
 import Input from "../../components/Input";
 import Card from "../../components/Card";

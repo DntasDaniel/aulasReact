@@ -1,5 +1,5 @@
 import { EyeIcon } from "@heroicons/react/20/solid";
-import { useState, useContext, useEffect } from "react";
+import { useState, useContext} from "react";
 import { ContextGlobal } from "../Card/global/ContextGlobal";
 import { useNavigate } from "react-router-dom";
 import { PencilIcon, TrashIcon } from "@heroicons/react/24/solid";
